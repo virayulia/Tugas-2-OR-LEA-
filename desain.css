@@ -1,0 +1,28 @@
+/**{
+	background-color: #fbfcc8;
+}*/
+
+body{
+	font-family: 'Gelasio', sans-serif;
+}
+
+.tambah{
+	margin-left: 40%;
+	margin-right: 40%;
+	margin-top: 30px;
+	width: 300px;
+	height: 300px;
+	padding: 30px;
+	box-shadow: 5% 5% 20% black;
+	border-radius: 10px;
+	background-image: linear-gradient (lime, yellow-green);
+
+
+}
+.box-login {
+	width: 5%;
+	height: 20px;
+	background-color: white;
+	margin: 5% auto;
+	padding: 20%;
+}
